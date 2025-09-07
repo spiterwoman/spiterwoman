@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Chrystel from Orlando, Florida<br><br>- ✿ I’m currently a student at the University of Central Florida (Go Knights! ⚔️) and ex-amazon SDE intern<br>- ✿ I'm actively learning processes of object-oriented software, mobile software development, web and UX, and AI<br>- ✿ In my free time, I love experimenting with new game development ideas—often diving into Unreal Engine projects or tinkering with code. I also enjoy staying active in organizations like Girls Who Code and Association for Computing Machinery (ACM), where I can learn from others, share my progress, and collaborate on exciting new tech initiatives. Oh, I'm also on the hunt for the best matcha around! 🍵</p>
+<p align="left">I'm Chrystel from Orlando, Florida<br><br>- ✿ I’m currently a student at the University of Central Florida (Go Knights! ⚔️) and ex-amazon SDE intern<br>- ✿ I'm actively learning processes of object-oriented software, mobile software development, web and UX, and Analysis of Communication Network's<br>- ✿ In my free time, I love experimenting with new game development ideas—often diving into Unreal Engine projects or tinkering with code. I also enjoy staying active in organizations like Girls Who Code and Association for Computing Machinery (ACM), where I can learn from others, share my progress, and collaborate on exciting new tech initiatives. Oh, I'm also on the hunt for the best matcha around! 🍵</p>
 
 ###
 
